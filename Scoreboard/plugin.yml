@@ -1,0 +1,5 @@
+name: Scoreboard
+main: com.funkemunky.Scoreboard.Core
+description: Scoreboard plugin for HCRiots.
+version: 1.4
+author: funkemunky
